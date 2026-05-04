@@ -1,0 +1,43 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.ctxt
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+.factorypath
+.project
+.settings/
+.classpath
+
+### OS / Local Config ###
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+
+### Spring Boot ###
+# Jangan upload konfigurasi yang berisi password database asli
+# Disarankan menggunakan application-local.properties untuk rahasia pribadi
+# application.properties
