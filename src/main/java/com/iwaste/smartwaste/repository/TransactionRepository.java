@@ -1,3 +1,4 @@
+// Dikerjakan oleh: Najwa Hikmatyar
 package com.iwaste.smartwaste.repository;
 
 import com.iwaste.smartwaste.model.Transaction;

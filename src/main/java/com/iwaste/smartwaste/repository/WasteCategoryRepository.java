@@ -1,4 +1,4 @@
-
+// Dikerjakan oleh: Ratu Qolbu Maziah
 package com.iwaste.smartwaste.repository;
 
 import com.iwaste.smartwaste.model.WasteCategory;

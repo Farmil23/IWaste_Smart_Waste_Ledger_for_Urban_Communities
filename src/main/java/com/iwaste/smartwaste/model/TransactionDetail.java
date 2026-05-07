@@ -1,3 +1,4 @@
+// Dikerjakan oleh:  Farhan Kamil
 package com.iwaste.smartwaste.model;
 
 import com.iwaste.smartwaste.exception.InvalidWeightException;

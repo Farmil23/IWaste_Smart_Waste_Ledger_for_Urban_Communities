@@ -1,3 +1,4 @@
+// Dikerjakan oleh: Moch. Riezky Dwi Kuswanto
 package com.iwaste.smartwaste.model;
 
 import jakarta.persistence.*;
